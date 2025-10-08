@@ -12,13 +12,13 @@ This helps your peer know exactly where to improve.
 - [ ] Meets requirement  
 💬 Comment:
 
----
+---its all good 
 
 ### 2. Content – Headline, paragraph, ≥3 images, ≥2 links, contact form  
 - [ ] Meets requirement  
 💬 Comment:
 
----
+---they're all good but the martric picture is not well accurate 
 
 ### 3. Functionality – Links work, form fields present  
 - [ ] Meets requirement  
